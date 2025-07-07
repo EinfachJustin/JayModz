@@ -1,0 +1,69 @@
+{
+  "scripts": [
+    {
+      "id": "advanced-banking",
+      "name": "Advanced Banking System",
+      "version": "2.1.0",
+      "description": "Ein vollständiges Banking-System mit ATMs, Überweisungen und mehr.",
+      "features": [
+        "Realistische ATM Interaktionen",
+        "Überweisungen zwischen Spielern",
+        "Transaktionshistorie",
+        "Admin Panel Integration",
+        "Vollständig konfigurierbar"
+      ],
+      "downloadUrl": "https://github.com/username/advanced-banking/releases/latest",
+      "githubUrl": "https://github.com/username/advanced-banking",
+      "lastUpdate": "2024-01-15",
+      "downloads": 1234,
+      "tags": ["banking", "economy", "roleplay"],
+      "requirements": ["ESX", "MySQL"],
+      "compatible": ["ESX", "QBCore"]
+    },
+    {
+      "id": "vehicle-dealer",
+      "name": "Vehicle Dealer Pro",
+      "version": "1.8.5",
+      "description": "Professioneller Fahrzeughändler mit Test-Fahrten und Finanzierung.",
+      "features": [
+        "Interaktive Showrooms",
+        "Test-Fahrten System",
+        "Finanzierung & Leasing",
+        "Individualisierung",
+        "Multi-Händler Support"
+      ],
+      "downloadUrl": "https://github.com/username/vehicle-dealer/releases/latest",
+      "githubUrl": "https://github.com/username/vehicle-dealer",
+      "lastUpdate": "2024-01-10",
+      "downloads": 892,
+      "tags": ["vehicles", "dealer", "business"],
+      "requirements": ["ESX", "MySQL"],
+      "compatible": ["ESX", "QBCore"]
+    },
+    {
+      "id": "job-system",
+      "name": "Ultimate Job System",
+      "version": "3.0.2",
+      "description": "Umfassendes Job-System mit verschiedenen Berufen und Belohnungen.",
+      "features": [
+        "15+ verschiedene Jobs",
+        "Skill-basierte Belohnungen",
+        "Dynamische Missionen",
+        "Ranglisten System",
+        "Vollständig anpassbar"
+      ],
+      "downloadUrl": "https://github.com/username/job-system/releases/latest",
+      "githubUrl": "https://github.com/username/job-system",
+      "lastUpdate": "2024-01-12",
+      "downloads": 2156,
+      "tags": ["jobs", "economy", "missions"],
+      "requirements": ["ESX", "MySQL"],
+      "compatible": ["ESX", "QBCore"]
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2024-01-15T10:00:00Z",
+    "totalDownloads": 4282,
+    "totalScripts": 3
+  }
+}

@@ -1,0 +1,40 @@
+title: JayModz - FiveM Scripts & Resources
+description: Professionelle FiveM Scripts und Resources für deinen Server
+url: https://username.github.io/JayModz
+baseurl: /JayModz
+
+# GitHub Pages Settings
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude files
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - .github/
+  - node_modules/
+  - package.json
+  - package-lock.json
+
+# Collections
+collections:
+  scripts:
+    output: true
+    permalink: /scripts/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "scripts"
+    values:
+      layout: "script"
