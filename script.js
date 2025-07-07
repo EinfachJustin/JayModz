@@ -1,6 +1,6 @@
 // Configuration
 const CONFIG = {
-    GITHUB_USERNAME: 'dein-username', // Ändere dies zu deinem GitHub Username
+    GITHUB_USERNAME: 'EinfachJustin', // Ändere dies zu deinem GitHub Username
     GITHUB_REPO: 'JayModz', // Ändere dies zu deinem Repository Name
     UPDATE_INTERVAL: 300000, // 5 Minuten in Millisekunden
     VERSION_CHECK_URL: 'https://api.github.com/repos/{username}/{repo}/releases/latest'
